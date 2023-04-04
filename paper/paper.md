@@ -33,9 +33,12 @@ In this context, `SysIdentPy` is a package designed for system identification us
 
 # Statement of need - SysIdentPyGUI
 
-`SysIdentPyGUI` is a web app for the Python module `SysIdentPy` in the format of a Graphical User Interface (GUI). It was written using the `Streamlit` library, which allows the creation of web apps in a compact Python syntax. `SysIdentPyGUI` comes as an use alternative for people that would like to use `SysIdentPy` toolbox but aren't familiar with Python, such as medical or economy students. 
+`SysIdentPyGUI` is a web app for the Python module `SysIdentPy` in the format of a Graphical User Interface (GUI). It was written using the `Streamlit` library, which allows the creation of web apps in a compact Python syntax. `SysIdentPyGUI` comes as an use alternative for people that would like to use `SysIdentPy` toolbox but aren't familiar with Python, such as medical or economy students. The application currently has the following `SysIdentPy` features implemented:
 
-
+- Model identification using AOLS, ER, MetaMSS and FROLS, through a Polynomial or Fourier basis function
+- Download your model
+- Load and validate your model
+- Simulate a predefined model
 
 # References
 

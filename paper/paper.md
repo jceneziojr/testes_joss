@@ -1,6 +1,8 @@
 ---
-title: 'SysIdentPy: A Python package for System Identification using NARMAX models'
+title: 'SysIdentPyGUI: A Graphical User Interface for System Identification using NARMAX models'
 tags:
+  - GUI
+  - Graphical User Interface
   - Python
   - System Identification
   - NARMAX
@@ -27,3 +29,4 @@ bibliography: paper.bib
 
 The field of System Identification (SI) aims to build mathematical models for static and dynamic behavior from experimental data [@Lju1987]. In particular, nonlinear system identification has become a central issue in the SI community, and from the 1950s onwards many methods have been proposed. In this respect, NARMAX (Nonlinear AutoRegressive Moving Average with eXogenous input) models are among the most well-documented and used model representation of dynamical systems [@Bil2013].
 
+In this context, `SysIdentPy` is a package designed for system identification using polynomial NARMAX models [@Wil2020].

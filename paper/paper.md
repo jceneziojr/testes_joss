@@ -40,5 +40,10 @@ In this context, `SysIdentPy` is a package designed for system identification us
 - Load and validate your model
 - Simulate a predefined model
 
+# Example of usage
+
+## Model Identification
+
+
 # References
 
